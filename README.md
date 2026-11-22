@@ -4,7 +4,7 @@ Arjun Ramdeen, 16, lives in Penal, south Trinidad, with his mother (a nurse on s
 
 He is tutored by Miss Morrison, three evenings a week, from November 2026 to the end of April 2027.
 
-- Study site, with progress: https://baughg.github.io/arjun.csec.2027.mathematics/
+- Study site, with progress: https://csecgym.github.io/arjun.csec.2027.mathematics/
 - The series on YouTube: https://www.youtube.com/playlist?list=PLBsG3tuxOrZE
 - The complete course on YouTube: https://www.youtube.com/playlist?list=PLUVKbsZosp2Q
 - The plan: [plan.md](plan.md)

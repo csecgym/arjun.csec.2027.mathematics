@@ -1,0 +1,93 @@
+{
+ "version": 1,
+ "series": {
+  "id": "mathematics",
+  "subject": "CSEC Mathematics",
+  "student": "Arjun Ramdeen",
+  "goal": "At least Grade II in CSEC Mathematics, May-June 2027, aiming for Grade I",
+  "cover": "https://csecgym.github.io/arjun.csec.2027.mathematics/assets/cover.jpg",
+  "series_playlist": "https://www.youtube.com/playlist?list=PLBsG3tuxOrZE",
+  "course_playlist": "https://www.youtube.com/playlist?list=PLUVKbsZosp2Q"
+ },
+ "episodes": [
+  {
+   "n": 1,
+   "week": 1,
+   "session": 1,
+   "date": "Tue 24 Nov 2026",
+   "title": "Meet Arjun",
+   "summary": "Meet Arjun Ramdeen, a Form 5 student and leg-spinner from Penal, south Trinidad. He scored 38% in Form 4 maths and says he is \"not a maths person\". In his first session we set his goal, look at the whole exam, and run a diagnostic test.",
+   "video_id": "5dQSkQsDX9I",
+   "question_sheet": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-01-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-01-answers.pdf",
+   "corrections": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-01-corrections.pdf",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Number Sets, Factors, HCF and LCM",
+     "video_id": "4TbGLOBE1W4",
+     "why": "Sets up the next session, The Diagnosis and the Plan (Thu 26 Nov 2026)."
+    },
+    {
+     "n": 2,
+     "title": "Fractions, Decimals and Percentages",
+     "video_id": "-sMInE3QpkY",
+     "why": "Sets up the next session, The Diagnosis and the Plan (Thu 26 Nov 2026)."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 1: Number Sets, Factors, HCF and LCM, and Lesson 2: Fractions, Decimals and Percentages. Phone in another room.",
+    "Do item 5 again: 3/4 + 2/5, every step written down. Bring it on Thursday."
+   ]
+  },
+  {
+   "n": 2,
+   "week": 1,
+   "session": 2,
+   "date": "Thu 26 Nov 2026",
+   "title": "The Diagnosis and the Plan",
+   "summary": "Arjun gets his diagnostic results: 15 out of 30. We find his five weaknesses, with evidence from his own work, and build a 23-week plan around the cricket season.",
+   "video_id": "w1uvTgH3cBQ",
+   "question_sheet": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-02-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-02-answers.pdf",
+   "corrections": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-02-corrections.pdf",
+   "lessons": [
+    {
+     "n": 16,
+     "title": "Algebra Basics and Directed Numbers",
+     "video_id": "4-Zzax2aoyw",
+     "why": "For algebra: Directed numbers first: say each sign aloud and use the number line."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 16: Algebra Basics and Directed Numbers.",
+    "Write five sums with negative numbers from real life: temperatures, money, or net run rate. Bring them on Sunday.",
+    "Ten minutes of algebra on the bus to Couva."
+   ]
+  },
+  {
+   "n": 3,
+   "week": 1,
+   "session": 3,
+   "date": "Sun 29 Nov 2026",
+   "title": "Algebra Nets: Signs and Brackets",
+   "summary": "Algebra nets. Arjun's sign errors and bracket errors come from half-remembered rules. We fix directed numbers with his team's net run rate, then expand brackets with an arrow to every term.",
+   "video_id": "j2Y8B9SZfEg",
+   "question_sheet": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-03-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-03-answers.pdf",
+   "corrections": "https://csecgym.github.io/arjun.csec.2027.mathematics/sheets/ep-03-corrections.pdf",
+   "lessons": [
+    {
+     "n": 17,
+     "title": "Expanding, Factorising and Binary Operations",
+     "video_id": "uGooCxmFCk0",
+     "why": "For algebra: Directed numbers first: say each sign aloud and use the number line."
+    }
+   ],
+   "homework": [
+    "Nets on Monday, Wednesday and Friday: 10 expansions and 5 directed-number sums each time. Photograph the page and send it.",
+    "Do the three your-turn questions again tomorrow, without looking at these answers."
+   ]
+  }
+ ]
+}
