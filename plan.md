@@ -113,7 +113,7 @@ Crossovers with the English series: Week 5, session 2: Joint session with Ashant
 ### Week 9 (from 18 Jan 2027): Module 1: Number, money, measure
 
 - **Tue 19 Jan 2027: Module 1 Checkpoint.** Timed test on weeks 1-8. Study: practice set in the session.
-- **Thu 21 Jan 2027: Checkpoint Results.** Updated skill profile; the plan around the SSCL season. Study: practice set in the session.
+- **Thu 21 Jan 2027: Checkpoint Results.** Updated skill profile; the plan around the SSCL season; SBA check-in: choosing the project and planning the data collection. Study: practice set in the session.
 - **Sun 24 Jan 2027: Variation.** Direct and inverse variation; linear-quadratic pairs. Study: Lesson 28: Linear-Quadratic Pairs and Variation.
 
 ### Week 10 (from 25 Jan 2027): Module 2: Algebra, graphs, geometry
@@ -149,7 +149,7 @@ Crossovers with the English series: Week 5, session 2: Joint session with Ashant
 ### Week 15 (from 1 Mar 2027): Module 2: Algebra, graphs, geometry
 
 - **Tue 2 Mar 2027: Module 2 Checkpoint.** Timed test on weeks 10-14. Study: practice set in the session.
-- **Thu 4 Mar 2027: Checkpoint Results.** Updated skill profile; adjust the plan. Study: practice set in the session.
+- **Thu 4 Mar 2027: Checkpoint Results.** Updated skill profile; adjust the plan; SBA check-in: data collected and the write-up started. Study: practice set in the session.
 - **Sun 7 Mar 2027: Grouped Data.** Histograms and frequency polygons. Study: Lesson 40: Grouped Data, Histograms and Frequency Polygons.
 
 ### Week 16 (from 8 Mar 2027): Module 3: Higher topics
